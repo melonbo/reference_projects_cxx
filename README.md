@@ -7,3 +7,5 @@ Motion可以监视一个或多个摄像头的视频信号，并能够检测图�
 # [基于epoll的简单的http服务器](https://github.com/hongliuliao/ehttp)
 # [非常轻型的TS和PS封装与解封装代码](https://github.com/xphh/litets)
 严格遵循ISO/IEC 13818-1标准，扩展性好
+# [流媒体服务器](https://github.com/ireader/media-server)
+RTSP/RTP/RTMP/FLV/HLS/MPEG-TS/MPEG-PS/MPEG-DASH/MP4/fMP4/MKV/WebM
