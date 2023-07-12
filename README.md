@@ -11,3 +11,6 @@ Motion可以监视一个或多个摄像头的视频信号，并能够检测图�
 RTSP/RTP/RTMP/FLV/HLS/MPEG-TS/MPEG-PS/MPEG-DASH/MP4/fMP4/MKV/WebM
 
 Build Dependence: https://github.com/ireader/sdk
+# [Qt编写的一些开源的demo](https://github.com/feiyangqingyun/QWidgetDemo)
+
+预计会有100多个，一直持续更新完善，代码简洁易懂注释详细，每个都是独立项目，非常适合初学者。
