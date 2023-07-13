@@ -21,6 +21,9 @@ Build Dependence: https://github.com/ireader/sdk
 
 # ffmpeg混音
 https://github.com/yangkun19921001/YKAVStudyPlatform/blob/ea651ac2da8754ec8917af283ec864758969e5a5/avcore/media/ffmpeg_examples/audioMix.cpp
+
 https://github.com/PubFork/YKAVStudyPlatform/blob/ea651ac2da8754ec8917af283ec864758969e5a5/avcore/media/ffmpeg_examples/audioMix.cpp
+
 https://github.com/a1325679/MixAudio/tree/master
+
 https://github.com/newbie-plan/amix/tree/main
