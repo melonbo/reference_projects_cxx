@@ -19,7 +19,7 @@ Build Dependence: https://github.com/ireader/sdk
 
 预计会有100多个，一直持续更新完善，代码简洁易懂注释详细，每个都是独立项目，非常适合初学者。
 
-#ffmpeg混音
+# ffmpeg混音
 https://github.com/yangkun19921001/YKAVStudyPlatform/blob/ea651ac2da8754ec8917af283ec864758969e5a5/avcore/media/ffmpeg_examples/audioMix.cpp
 https://github.com/PubFork/YKAVStudyPlatform/blob/ea651ac2da8754ec8917af283ec864758969e5a5/avcore/media/ffmpeg_examples/audioMix.cpp
 https://github.com/a1325679/MixAudio/tree/master
