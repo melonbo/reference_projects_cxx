@@ -27,3 +27,6 @@ https://github.com/PubFork/YKAVStudyPlatform/blob/ea651ac2da8754ec8917af283ec864
 https://github.com/a1325679/MixAudio/tree/master
 
 https://github.com/newbie-plan/amix/tree/main
+
+# [KuGouDemo](https://github.com/what951006/KuGouDemo/)
+使用Qt写的UI层，底层播放使用ffmpeg强大的ffmpeg ##歌词 根据网上的资源，破解酷狗歌词，并实现了歌词的精准对齐！
