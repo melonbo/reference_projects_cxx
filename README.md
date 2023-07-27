@@ -30,4 +30,4 @@ https://github.com/newbie-plan/amix/tree/main
 
 # [KuGouDemo](https://github.com/what951006/KuGouDemo/)
 使用Qt写的UI层，底层播放使用ffmpeg强大的ffmpeg ##歌词 根据网上的资源，破解酷狗歌词，并实现了歌词的精准对齐！
-https://github.com/melonbo/image/blob/main/group_01/sp230725_104028.png
+<img src="https://github.com/melonbo/image/blob/main/group_01/sp230725_104028.png" alt="error" style="width: 300px; height: 200px;">
