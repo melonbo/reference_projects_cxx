@@ -39,11 +39,10 @@ https://github.com/newbie-plan/amix/tree/main
 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 
 # [音视频开发](https://github.com/cherishman2005/rtc)
-## rtc技术介绍
-## rtc技术介绍
-## 音视频基础技术
-## 基于ffmepg-sdk开发音视频编码/解码相关后端程序，重点就是要多读ffmpeg源码（前提是C/C++编程基础）。
-
+rtc技术介绍
+rtc技术介绍
+音视频基础技术
+基于ffmepg-sdk开发音视频编码/解码相关后端程序，重点就是要多读ffmpeg源码（前提是C/C++编程基础）。
 FFmpeg开发入门介绍
 ffmpeg部分源码解读
 ffmepg抽帧截图
