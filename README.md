@@ -37,3 +37,21 @@ https://github.com/newbie-plan/amix/tree/main
 
 # [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)
 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
+
+# [音视频开发](https://github.com/cherishman2005/rtc)
+## rtc技术介绍
+## rtc技术介绍
+## 音视频基础技术
+## 基于ffmepg-sdk开发音视频编码/解码相关后端程序，重点就是要多读ffmpeg源码（前提是C/C++编程基础）。
+
+FFmpeg开发入门介绍
+ffmpeg部分源码解读
+ffmepg抽帧截图
+webrtc ffmpeg录制、转码
+I/P/B视频帧
+在实时互动直播系统中，很少使用B帧。主要的原因是压缩和解码B帧时，由于要双向参考，所以它需要缓冲更多的数据，且使用的CPU也会更高。由于实时性的要求，所以一般不使用它。不过对于播放器来说，遇到带有B帧的H264数据是常有的事儿。在没有B帧的情况下，存放帧的顺序和显示帧的顺序就是一样的，PTS和DTS的值也是一样的。
+
+gpu硬件解码
+显卡解码
+
+
