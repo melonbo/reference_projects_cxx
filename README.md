@@ -53,4 +53,4 @@ I/P/B视频帧
 gpu硬件解码
 显卡解码
 
-
+# [基于 Qt 和 FFmpeg 的视频、音频分割软件](https://github.com/sonichy/HTYVideoSpliter)
