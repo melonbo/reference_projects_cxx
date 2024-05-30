@@ -57,3 +57,7 @@ gpu硬件解码
 
 # [基于 Qt 和 FFmpeg 的视频、音频分割软件](https://github.com/sonichy/HTYVideoSpliter)
 # [Split Audio and Video bitstreams based on FFmpeg](https://github.com/Akagi201/ffmpeg-demuxer/tree/master)
+
+# [media-server](https://github.com/ireader/media-server?tab=readme-ov-file)
+参考协议封装、解封装
+RTSP/RTP/RTMP/FLV/HLS/MPEG-TS/MPEG-PS/MPEG-DASH/MP4/fMP4/MKV/WebM
