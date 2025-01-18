@@ -64,7 +64,7 @@ gpu硬件解码
 RTSP/RTP/RTMP/FLV/HLS/MPEG-TS/MPEG-PS/MPEG-DASH/MP4/fMP4/MKV/WebM
 
 # [基于qt框架用c++实现的基于ffmpeg的播放器](https://github.com/dreamerric/ffmpegPlayerQt)
- -右键菜单打开网络流和本地文件
+ - 右键菜单打开网络流和本地文件
  -打开和关闭播放列表
  -本地文件直接拖进播放器加入播放列表
  -视频播放和暂停（按键和空格键）
