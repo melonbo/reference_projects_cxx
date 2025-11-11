@@ -74,5 +74,9 @@ RTSP/RTP/RTMP/FLV/HLS/MPEG-TS/MPEG-PS/MPEG-DASH/MP4/fMP4/MKV/WebM
  - 静音和播放（右键菜单和音量图标）
  - 鼠标双击进入/退出全屏（ESC退出）
  - 窗口尺寸任意调整
+
+# [一个简单的C++11线程池](https://github.com/log4cplus/ThreadPool)
+
+
  - 鼠标定时隐藏，全屏隐藏进度条
  - 显示视频详细信息
