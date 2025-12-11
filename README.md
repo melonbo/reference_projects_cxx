@@ -79,3 +79,5 @@ RTSP/RTP/RTMP/FLV/HLS/MPEG-TS/MPEG-PS/MPEG-DASH/MP4/fMP4/MKV/WebM
 
 # [一个简单的C++11线程池](https://github.com/log4cplus/ThreadPool)
 
+# [一个高性能的无锁并发队列库](https://github.com/cameron314/concurrentqueue)
+单头文件
